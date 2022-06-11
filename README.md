@@ -4,4 +4,6 @@ Data from
 
  - https://github.com/ye-kyaw-thu/myPOS
 
-Bigram Parts-of-Speech Tagging
+Parts-of-Speech Tagging using
+
+ - Bigram Hidden Markov Model 
