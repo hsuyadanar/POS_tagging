@@ -1,5 +1,7 @@
 # POS_tagging
 
-Dataset
+Data from 
 
-https://github.com/ye-kyaw-thu/myPOS
+ - https://github.com/ye-kyaw-thu/myPOS
+
+Bigram Parts-of-Speech Tagging
